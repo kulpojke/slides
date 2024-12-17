@@ -1,3 +1,6 @@
+<body>
+		<div class="reveal">
+			<div class="slides">
 <section data-markdown data-separator="--->  
     <textarea data-template>  
 
@@ -9,4 +12,7 @@ Yo Yo Yo!
 Hi!  
 ---  
     </textarea>  
-</section>  
+</section>
+  <section>Slide 2</section>
+			</div>
+		</div>
