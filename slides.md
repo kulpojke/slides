@@ -1,4 +1,4 @@
-<section data-markdown>  
+<section data-markdown data-separator="--->  
     <textarea data-template>  
 
 ## Slide 1  
