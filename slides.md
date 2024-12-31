@@ -1,7 +1,7 @@
 <body>
 		<div class="reveal">
 			<div class="slides">
-<section data-markdown data-separator="--->  
+<section data-markdown data-separator="---">  
     <textarea data-template>  
 
 ## Slide 1  
@@ -16,3 +16,4 @@ Hi!
   <section>Slide 2</section>
 			</div>
 		</div>
+
