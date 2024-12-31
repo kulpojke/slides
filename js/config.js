@@ -175,7 +175,7 @@ export default {
 	// Default settings for our auto-animate transitions, can be
 	// overridden per-slide or per-element via data arguments
 	autoAnimateEasing: 'ease',
-	autoAnimateDuration: 1.0,
+	autoAnimateDuration: 10.0,
 	autoAnimateUnmatched: true,
 
 	// CSS properties that can be auto-animated. Position & scale

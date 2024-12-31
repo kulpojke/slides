@@ -8,12 +8,10 @@
 
 Yo Yo Yo!  
 ---  
+
 ## Slide 2  
 Hi!  
 ---  
     </textarea>  
 </section>
-  <section>Slide 2</section>
-			</div>
-		</div>
 
